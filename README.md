@@ -15,7 +15,7 @@ Python isn’t just a language — it’s a mindset. From PEP8 to practical eleg
 ### --> File Guide
 
 All files in the repo pretty much tell you what they are about ( <-- filename = what it's about --> ) EXCEPT for the last file, the last file just speaks about private functions ( e.g. def _hello)
-                                                                                                                                                                                             ^ underscore = private func
+                                                                                                                                                                                             ^ <- underscore = private func
 ^^ although private functions aren´t necessarily apart of a principle of writing pythonic code, I simply just felt like including it.
 
 ### --> Style & Pedagogy
