@@ -1,5 +1,5 @@
 
-# pythonic.py
+# 0xA01F0 -> pythonic #
 
 __A clean, well-documented guide to writing idiomatic Python.__ This project is a Python developer’s companion — a collection of files, each focusing on an important principle, pattern etc. in Pythonic coding. Each file is designed to be read and understood directly, without external references.
 
