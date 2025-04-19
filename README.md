@@ -7,7 +7,7 @@ __A clean, well-documented guide to writing idiomatic Python.__ This project is 
 
 ### --> Philosophy
 
-Python isn’t just a language — it’s a mindset. From PEP8 to practical elegance, from readability to runtime clarity, this project explores what it means to “write Python like a Pythonista.”
+Python could be viewed as more than just a "language" in the sense that we are looking at within this repo. From PEP8 to practical elegance, from readability to runtime clarity, this project explores what it means to “write Python like a Pythonista.”
                                             ^ -> also some extra things I felt like including, good for writing clean code
 
 
